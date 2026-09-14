@@ -1,6 +1,7 @@
-# 📡 DSP Projects
+# 📡 DSP-MATLAB basic projects
+(lab experiments/conceptual understanding)
 
-A collection of **Digital Signal Processing (DSP)** projects and experiments designed to build practical understanding of signals, systems, and digital signal processing techniques.
+A collection of **Digital Signal Processing (DSP)** projects and experiments designed to build practical understanding of signals, systems, and digital signal processing techniques in MATLAB.
 
 The repository starts with fundamental DSP concepts and gradually moves toward practical applications such as **digital filtering and audio processing**.
 
