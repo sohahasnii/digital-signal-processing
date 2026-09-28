@@ -88,6 +88,8 @@ Shows the magnitude of the frequency components against frequency.
 The peaks in this plot can be used to identify the dominant frequencies present in the signal.
 
 Ex:
+
+
 <img width="326" height="121" alt="image" src="https://github.com/user-attachments/assets/8ca86e53-fcfa-450a-9b34-87d05bd1126e" />
 
 <img width="984" height="615" alt="image" src="https://github.com/user-attachments/assets/504aa756-77d2-4344-84bf-5e3645c19299" />
