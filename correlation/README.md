@@ -28,6 +28,7 @@ The program provides:
 * Cross-correlation sequence
 * Corresponding lag values
 * Stem plot of correlation versus lag
+  
 EX: for 2 input sequences: [1 2 3 4 5] and [2 3 4 5]
 
 <img width="411" height="101" alt="image" src="https://github.com/user-attachments/assets/0aafee3a-8e45-4fbe-b27f-373253aba355" />
