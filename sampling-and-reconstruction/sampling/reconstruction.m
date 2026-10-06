@@ -14,28 +14,27 @@ ts = 0:1/Fs:1;
 xs = sin(2*pi*f*ts);
 
 % Reconstruction using interpolation
-xr = interp1(ts, xs, t, 'spline');
+xr = interp1(ts, xs, t);
 
 % Plot original and sampled signal
 figure;
 
 subplot(3,1,1);
-plot(t, x, 'b', 'LineWidth', 1.5);
+plot(t, x, 'b');
 title('Original Signal');
 xlabel('Time (s)');
 ylabel('Amplitude');
-grid on;
+
 
 subplot(3,1,2);
-stem(ts, xs, 'r', 'filled');
+stem(ts, xs, 'r');
 title('Sampled Signal');
 xlabel('Time (s)');
 ylabel('Amplitude');
-grid on;
+
 
 subplot(3,1,3);
-plot(t, x, 'b--', 'LineWidth', 1);
-hold on;
+plot(t, x);
 plot(t, xr, 'r', 'LineWidth', 1.5);
 title('Reconstructed Signal');
 xlabel('Time (s)');
