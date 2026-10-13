@@ -1,4 +1,4 @@
-%% IIR filter design using built-in functions
+% IIR filter design using built-in functions
 clc;
 clear;
 close all;
