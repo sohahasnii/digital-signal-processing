@@ -22,8 +22,6 @@ x = sin(2*pi*200*t) + sin(2*pi*2500*t);
 y = filter(b, a, x);
 
 % Plot input and output signals
-figure;
-
 subplot(3,1,1);
 plot(t, x);
 title('Input Signal');
