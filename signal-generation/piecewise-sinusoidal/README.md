@@ -34,11 +34,12 @@ The waveform can be used to observe how changing the frequency affects the numbe
 
 ---
 ## Result
-For frequency 1: 2000 
+For
+frequency 1: 2000 
 
-    frequency 2: 3000
-    
-    frequency 3: 1000
+frequency 2: 3000
+
+frequency 3: 1000
     
 <img width="944" height="605" alt="image" src="https://github.com/user-attachments/assets/cb4f8f9b-1be7-41ce-a6e3-63b474613726" />
 
